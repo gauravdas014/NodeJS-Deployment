@@ -1,0 +1,14 @@
+{
+  "name": "NodeJS-Deployment",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/gauravdas014/NodeJS-Deployment.git",
+  "author": "Gaurav Das <gauravdas014@gmail.com>",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
